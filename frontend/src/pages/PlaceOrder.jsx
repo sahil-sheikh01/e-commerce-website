@@ -124,6 +124,8 @@ const PlaceOrder = () => {
 
           if (response.data.success) {
             initPay(response.data.order);
+          } else {
+            toast.error(response.data.message);
           }
           break;
         }
