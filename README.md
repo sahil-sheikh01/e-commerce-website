@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="7E6um7NGmeE-HD" src="https://github.com/user-attachments/assets/e9e326ff-f510-4b44-911a-2cfaa80c43b3" />
+<img width="1280" height="720" alt="project-screenshot" src="https://github.com/user-attachments/assets/e44004f5-8938-4340-9e9f-49877637de6c" />
 # E-Commerce Website
 
 A full-stack eCommerce website built with **MERN stack (MongoDB, Express.js, React, and Node.js)**. The project provides a complete online shopping experience, including product browsing, filtering, sorting, cart management, product variants, order placement, and online payments.
